@@ -1,0 +1,27 @@
+ 
+h1 {
+    color:red
+}
+
+.header{
+    background-color: rgb(255,255,255);
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+    color: rgb(70, 20, 104);
+    font-size: 29px;
+    font-family: fantasy;
+    
+}
